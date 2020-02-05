@@ -3,6 +3,8 @@
 ## Developed to better understand contour identification 
 Uses OpenCV for image recognition to identify and count the number of black circles, lines, squares, and triangles on a white background using the users webcam. Reduces noise and smoothes image through Gaussian blurring, detects and outlines edges, and detects the objects using contour identification.
 
+Was developed for one of the MATE 2019 sub-problems
+
 ## Installation
 
 ✔ Use python3.8~
