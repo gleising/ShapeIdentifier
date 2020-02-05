@@ -13,11 +13,11 @@ while(True):
 
     detect_shapes.shapeFinder(frame)
     # Display the resulting image
-    cv2.imshow('Video Capture',frame)
+    cv2.imshow('Video Capture', frame)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):  # press q to quit
         break
-        
+
 # When everything done, release the capture
 cap.release()
 cv2.destroyAllWindows()
