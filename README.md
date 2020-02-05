@@ -27,6 +27,8 @@ Uses OpenCV for image recognition to identify and count the number of black circ
 
 - Make sure you have a webcam
 
+- Let the program access your webcam
+
 - Run `python app.py`
 
 - To close app press `q`
