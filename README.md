@@ -1,7 +1,5 @@
 # ShapeIdentifier
 
-<img src="./src/images/ShapeIdentifier.png">
-
 ## Developed to better understand contour identification 
 Uses OpenCV for image recognition to identify and count the number of black circles, lines, squares, and triangles on a white background using the users webcam. Reduces noise and smoothes image through Gaussian blurring, detects and outlines edges, and detects the objects using contour identification.
 
@@ -32,3 +30,7 @@ Uses OpenCV for image recognition to identify and count the number of black circ
 - Run `python app.py`
 
 - To close app press `q`
+
+## Example
+
+<img src="./src/images/ShapeIdentifier.png">
