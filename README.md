@@ -7,23 +7,23 @@ Was developed for one of the MATE 2019 sub-problems and to better understand con
 
 ## Installation
 
-✔ Use python3.8~
+Use python3.8~ ✔
 
-✔ `$ cd ShapeIdentifier`
+`$ cd ShapeIdentifier`
 
 ### Option 1:
 
-✔ Install [pip](https://pip.pypa.io/en/stable/installing/)
+Install [pip](https://pip.pypa.io/en/stable/installing/) ✔
 
-✔ `$ pip install -r requirements.txt`
+`$ pip install -r requirements.txt`
 
 ### Option 2:
 
-✔ Install [pipenv](https://github.com/pypa/pipenv)
+Install [pipenv](https://github.com/pypa/pipenv) ✔
 
-✔ `$ pipenv shell`
+`$ pipenv shell`
 
-✔ `$ pipenv install`
+`$ pipenv install`
 
 ## Running the App
 
