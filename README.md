@@ -9,29 +9,27 @@ Was developed for one of the MATE 2019 sub-problems and to better understand con
 
 ✔ Use python3.8~
 
-✔ Run `cd ShapeIdentifier`
+✔ `$ cd ShapeIdentifier`
 
 ### Option 1:
 
 ✔ Install [pip](https://pip.pypa.io/en/stable/installing/)
 
-✔ Run `pip install -r requirements.txt`
+✔ `$ pip install -r requirements.txt`
 
 ### Option 2:
 
 ✔ Install [pipenv](https://github.com/pypa/pipenv)
 
-✔ Run `pipenv shell`
+✔ `$ pipenv shell`
 
-✔ Run `pipenv install`
+✔ `$ pipenv install`
 
 ## Running the App
 
-- Make sure you have a webcam
+- Make sure you have a webcam and the program has access to it
 
-- Let the program access your webcam
-
-- Run `python app.py`
+- `$ python app.py`
 
 - To close app press `q`
 
