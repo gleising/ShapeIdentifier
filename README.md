@@ -7,7 +7,7 @@ Was developed for one of the MATE 2019 sub-problems and to better understand con
 
 ## Installation
 
-Use python3.8~  ✔
+Use python3.8~ ✔
 
 `$ cd ShapeIdentifier`
 
